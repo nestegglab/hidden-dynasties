@@ -1,0 +1,9 @@
+# start Thu Oct 29 08:42:57 2026 ['base', 'off']
+# base: r=6.0000% excess=+0.0018 gens=18 3270s top1=0.3453 top1_liq=0.3052 top0.1=0.1833
+# base: DONE r*=6.0000% excess=+0.0018
+# off: r=6.0000% excess=-0.0692 gens=6 146s top1=0.3101 top1_liq=0.3101 top0.1=0.1463
+# off: r=6.5000% excess=+0.0873 gens=6 138s top1=0.3089 top1_liq=0.3089 top0.1=0.1477
+# off: r=6.2211% excess=-0.0039 gens=6 143s top1=0.3094 top1_liq=0.3094 top0.1=0.1468
+# off: r=6.2329% excess=-0.0002 gens=5 113s top1=0.3094 top1_liq=0.3094 top0.1=0.1468
+# off: DONE r*=6.2329% excess=-0.0002
+# all done Thu Oct 29 09:46:27 2026

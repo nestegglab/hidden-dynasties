@@ -1,0 +1,13 @@
+# start Mon Oct 19 10:38:46 2026 nd=70
+# base: r=6.0000% excess=-0.0031 gens=18 4984s top1=0.3621 top1_liq=0.3201 top0.1=0.1949
+# base: r=6.5000% excess=+0.2190 gens=17 4643s top1=0.3840 top1_liq=0.3223 top0.1=0.2223
+# base: r=6.0070% excess=-0.0006 gens=16 4335s top1=0.3625 top1_liq=0.3201 top0.1=0.1955
+# base: DONE r*=6.0070% excess=-0.0006
+# off: r=6.0000% excess=-0.0866 gens=6 176s top1=0.3266 top1_liq=0.3266 top0.1=0.1564
+# off: r=6.5000% excess=+0.0749 gens=7 209s top1=0.3273 top1_liq=0.3273 top0.1=0.1587
+# off: r=6.2681% excess=-0.0047 gens=6 174s top1=0.3268 top1_liq=0.3268 top0.1=0.1576
+# off: r=6.2818% excess=-0.0002 gens=5 146s top1=0.3268 top1_liq=0.3268 top0.1=0.1577
+# off: DONE r*=6.2818% excess=-0.0002
+# v2b_: s1=0.2127 s0.1=0.3254 top1 0.3634->0.3268 (effect +3.67 pp) top0.1 effect +3.86 pp personal top1 0.3202
+# v2b_nd70_: s1=0.2064 s0.1=0.3213 top1 0.3625->0.3268 (effect +3.57 pp) top0.1 effect +3.78 pp personal top1 0.3201
+# all done Mon Oct 19 14:43:12 2026

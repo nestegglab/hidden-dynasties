@@ -1,0 +1,19 @@
+# start Sat Oct 17 15:31:46 2026 ['base', 'off', 'noshield', 'lock0']
+# base: r=6.0000% excess=+0.0018 gens=18 3680s top1=0.3634 top1_liq=0.3202 top0.1=0.1962
+# base: DONE r*=6.0000% excess=+0.0018
+# off: r=6.0000% excess=-0.0866 gens=6 126s top1=0.3266 top1_liq=0.3266 top0.1=0.1564
+# off: r=6.5000% excess=+0.0749 gens=7 153s top1=0.3273 top1_liq=0.3273 top0.1=0.1587
+# off: r=6.2681% excess=-0.0047 gens=6 129s top1=0.3268 top1_liq=0.3268 top0.1=0.1576
+# off: r=6.2818% excess=-0.0002 gens=5 114s top1=0.3268 top1_liq=0.3268 top0.1=0.1577
+# off: DONE r*=6.2818% excess=-0.0002
+# noshield: r=6.0000% excess=-0.0631 gens=13 2618s top1=0.3268 top1_liq=0.3235 top0.1=0.1566
+# noshield: r=6.5000% excess=+0.1050 gens=11 2275s top1=0.3280 top1_liq=0.3239 top0.1=0.1594
+# noshield: r=6.1878% excess=-0.0044 gens=11 2258s top1=0.3268 top1_liq=0.3236 top0.1=0.1575
+# noshield: r=6.2003% excess=-0.0003 gens=9 1856s top1=0.3268 top1_liq=0.3236 top0.1=0.1576
+# noshield: DONE r*=6.2003% excess=-0.0003
+# lock0: r=6.0000% excess=-0.0712 gens=7 1406s top1=0.3324 top1_liq=0.3262 top0.1=0.1620
+# lock0: r=6.5000% excess=+0.0980 gens=7 1438s top1=0.3352 top1_liq=0.3282 top0.1=0.1667
+# lock0: r=6.2104% excess=-0.0050 gens=6 1250s top1=0.3331 top1_liq=0.3267 top0.1=0.1638
+# lock0: r=6.2244% excess=-0.0003 gens=5 1059s top1=0.3332 top1_liq=0.3268 top0.1=0.1639
+# lock0: DONE r*=6.2244% excess=-0.0003
+# all done Sat Oct 17 20:37:49 2026

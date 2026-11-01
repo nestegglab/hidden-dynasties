@@ -1,0 +1,191 @@
+{
+ "label": "v2c (final)",
+ "status": "stopped by choice at evaluation 34 (plateau: 17.21 -> 17.16 -> 17.04 over the last steps)",
+ "params": {
+  "beta_annual": 0.9470258472085058,
+  "phi1": -1.5494726762187743,
+  "chi": 0.1493978828816961,
+  "fric_mu": 0.07496201209382677,
+  "fric_nu": 0.02647145719235874,
+  "trust_weight": 1.3819218010771774,
+  "gift_phi": -1.7931406611023284
+ },
+ "sum_sq": 17.038093162622552,
+ "residual_sq_by_target": {
+  "K_gap": 0.1,
+  "top1_dfa": 0.0,
+  "top0.1_dfa": 0.94,
+  "top10_dfa": 1.97,
+  "trust_share_of_top1_wealth": 1.25,
+  "trust_share_of_top0.1_wealth": 2.77,
+  "estate_tax/gross_50M+": 0.92,
+  "log_share_deaths_taxable": 0.49,
+  "charity/taxable_estates": 0.26,
+  "wealth_75plus/mean": 7.78,
+  "inter_vivos_share": 0.55
+ },
+ "targets": {
+  "K_gap": {
+   "target": 0.0,
+   "se": 0.01,
+   "source": "capital market clears at r = 6%",
+   "model": 0.003201863053026388
+  },
+  "top1_dfa": {
+   "target": 0.325,
+   "se": 0.01,
+   "source": "Fed DFA Q2 2026",
+   "model": 0.32555281344031917
+  },
+  "top0.1_dfa": {
+   "target": 0.15,
+   "se": 0.01,
+   "source": "Fed DFA Q2 2026",
+   "model": 0.15967910917376893
+  },
+  "top10_dfa": {
+   "target": 0.689,
+   "se": 0.015,
+   "source": "Fed DFA Q2 2026",
+   "model": 0.7100770610971996
+  },
+  "trust_share_of_top1_wealth": {
+   "target": 0.15,
+   "se": 0.05,
+   "source": "CRS R48879 (2026) via CBO: 10-20%",
+   "model": 0.20598131403265107
+  },
+  "trust_share_of_top0.1_wealth": {
+   "target": 0.4,
+   "se": 0.07,
+   "source": "Galle, Gamage & Lord (2026): one-third or more",
+   "model": 0.28352974422572397
+  },
+  "estate_tax/gross_50M+": {
+   "target": 0.238,
+   "se": 0.03,
+   "source": "IRS SOI 2024 Table 1, taxable $50M+, tax / (gross - spousal bequests)",
+   "model": 0.2668049174193911
+  },
+  "log_share_deaths_taxable": {
+   "target": -6.571283042360924,
+   "se": 0.15,
+   "source": "Tax Policy Center",
+   "model": -6.6765965794198285
+  },
+  "charity/taxable_estates": {
+   "target": 0.181,
+   "se": 0.03,
+   "source": "IRS SOI 2024 Table 1, taxable returns, charity / (gross - spousal bequests)",
+   "model": 0.1962210594695551
+  },
+  "wealth_75plus/mean": {
+   "target": 1.527,
+   "se": 0.15,
+   "source": "SCF 2022 (down-weighted: structural limitation)",
+   "model": 1.1085989376997847
+  },
+  "inter_vivos_share": {
+   "target": 0.27,
+   "se": 0.04,
+   "source": "Sabelhaus (2024), SCF 2021",
+   "model": 0.2404278218384375
+  }
+ },
+ "moments": {
+  "K_supply": 9.761492777435583,
+  "Kb": 2.943744490723644,
+  "Kc_demand": 6.795988462345562,
+  "K_supply-Kb": 6.817748286711939,
+  "K/Y (total)": 3.395862886136155,
+  "Kb/K": 0.3015670408042844,
+  "gini": 0.8369510305836988,
+  "top0.1": 0.17345753740301917,
+  "top1": 0.3419951585987192,
+  "top5": 0.57409253678169,
+  "top10": 0.7168011032600909,
+  "top20": 0.8643047685033202,
+  "bottom50": 0.009470932416780764,
+  "top1_liquid_only": 0.3066766095198964,
+  "top0.1_liquid_only": 0.1427787153536415,
+  "top10_liquid_only": 0.6995502880463181,
+  "top1_dfa": 0.32555281344031917,
+  "top0.1_dfa": 0.15967910917376893,
+  "top10_dfa": 0.7100770610971996,
+  "share_zero": 0.2986340691513977,
+  "share_entrepreneurs": 0.2043647279543317,
+  "share_deaths_taxable": 0.0012600591944250663,
+  "charity/taxable_estates": 0.1962210594695551,
+  "bequest_flow/Y": 0.03469908303448046,
+  "wealth_75plus/mean": 1.1085989376997847,
+  "parent_child_wealth_elasticity": 0.2784447276087967,
+  "elasticity_child_50_54": 0.22178375408976536,
+  "rank_rank_child_35_39": 0.43053337002754993,
+  "rank_rank_child_50_54": 0.2897144007924109,
+  "earnings_rank_rank": 0.34101531580283917,
+  "top1_earnings_share": 0.1504942246768699,
+  "trust_assets/wealth": 0.08948103638024373,
+  "takeup_all": 0.01818938570959163,
+  "share_heir_trusts": 0.017609293971527606,
+  "share_founder_trusts": 0.0005800917380640232,
+  "trust_assets_heirs/trust_assets": 0.9218776310612389,
+  "takeup_top0.1": 0.32464072473631445,
+  "takeup_top1": 0.22116342838856673,
+  "takeup_90_99": 0.07371442346940706,
+  "tier2_all": 0.0,
+  "tier2_top1": 0.0,
+  "tier2_top0.1": 0.0,
+  "trust_share_of_top1_wealth": 0.20598131403265107,
+  "trust_share_of_top0.1_wealth": 0.28352974422572397,
+  "eff_estate_tax_big_estates": 0.11101476381006557,
+  "trust_share_big_estates": 0.5112389489238246,
+  "estate_tax/gross_10_20M": 0.00039441664837741017,
+  "estate_tax/gross_20_50M": 0.031498479784839224,
+  "estate_tax/gross_50M+": 0.2668049174193911,
+  "estate_tax/gross_10M+": 0.1716038025669066,
+  "estate_tax/Y": 0.0014574036547933301,
+  "gift_tax/Y": 0.0011526227278318888,
+  "freeze_transfers/Y": 0.0,
+  "gifts/Y": 0.010983320866179386,
+  "inter_vivos_share": 0.2404278218384375,
+  "share_giving_at_gift_age": 0.06591455788787104,
+  "mean_wealth_usd_check": 1061860.7503231894,
+  "implied_g/Y": 0.1601587943562184,
+  "mass_at_grid_top": 1.0651592001000259e-08,
+  "mean_wealth_by_age": [
+   0.0,
+   0.19804927563650163,
+   0.36603345189931763,
+   0.6063367787318107,
+   0.8914358940686515,
+   1.196881391498493,
+   1.4886100185523354,
+   1.8230273741171468,
+   1.8373271161704219,
+   2.0251190168582203,
+   1.716397894937675,
+   1.3844374760932017,
+   1.0393633266176054,
+   0.6965510506549472
+  ],
+  "K_gap": 0.003201863053026388,
+  "log_share_deaths_taxable": -6.6765965794198285
+ },
+ "fast_config": {
+  "nxi": 5,
+  "ko": 2,
+  "nd": 55,
+  "gifts": true
+ },
+ "diff_step": [
+  0.001,
+  0.03,
+  0.05,
+  0.05,
+  0.05,
+  0.03,
+  0.03
+ ],
+ "wtol": 0.0001,
+ "evaluations": 34
+}

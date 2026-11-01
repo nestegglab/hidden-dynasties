@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Hidden Dynasties: Dynasty Trusts and the Concentration of Wealth (code and results)"
+authors:
+  - family-names: Berk
+    given-names: Richard
+    affiliation: Nest Egg Lab
+    orcid: "https://orcid.org/0009-0004-5344-4614"
+date-released: 2026-11-01
+license: MIT

@@ -1,0 +1,84 @@
+# start Wed Oct 21 18:21:05 2026 ['s15', 's10', 's27']
+# s15: mu=0.08591 beta=0.94804 s1=0.1802 s0.1=0.2435 K_gap=+0.0184 top1=0.3346 top1_liq=0.3054 3072s
+# s15: mu=0.09096 beta=0.94796 s1=0.1692 s0.1=0.2269 K_gap=+0.0108 top1=0.3328 top1_liq=0.3058 2100s
+# s15: mu=0.10013 beta=0.94791 s1=0.1529 s0.1=0.2031 K_gap=+0.0016 top1=0.3303 top1_liq=0.3063 2086s
+# s15: calibrated mu=0.10013 beta=0.94791 s1=0.1529 K_gap=+0.0016
+# base: DONE r*=6.0000% excess=+0.0016
+# off: r=6.0000% excess=-0.0460 gens=6 141s top1=0.3168 top1_liq=0.3168 top0.1=0.1513
+# off: r=6.5000% excess=+0.1194 gens=6 139s top1=0.3169 top1_liq=0.3169 top0.1=0.1533
+# off: r=6.1391% excess=-0.0033 gens=6 135s top1=0.3165 top1_liq=0.3165 top0.1=0.1518
+# off: r=6.1487% excess=-0.0002 gens=5 123s top1=0.3165 top1_liq=0.3165 top0.1=0.1518
+# off: DONE r*=6.1487% excess=-0.0002
+# s15: RESULT s1=0.1529 s0.1=0.2031 top1 0.3303->0.3165 (effect +1.38 pp) top0.1 0.1617->0.1518 (effect +0.98 pp) r_off=6.1487%
+# s10: mu=0.09568 beta=0.94895 s1=0.1639 s0.1=0.2182 K_gap=+0.0364 top1=0.3298 top1_liq=0.3040 2667s
+# s10: mu=0.10650 beta=0.94887 s1=0.1469 s0.1=0.1940 K_gap=+0.0261 top1=0.3275 top1_liq=0.3047 2296s
+# s10: mu=0.13680 beta=0.94874 s1=0.1157 s0.1=0.1531 K_gap=+0.0084 top1=0.3244 top1_liq=0.3063 2286s
+# s10: mu=0.15207 beta=0.94868 s1=0.1031 s0.1=0.1381 K_gap=+0.0021 top1=0.3236 top1_liq=0.3072 2087s
+# s10: mu=0.15563 beta=0.94865 s1=0.1001 s0.1=0.1345 K_gap=+0.0002 top1=0.3234 top1_liq=0.3074 2095s
+# s10: calibrated mu=0.15563 beta=0.94865 s1=0.1001 K_gap=+0.0002
+# base: DONE r*=6.0000% excess=+0.0002
+# off: r=6.0000% excess=-0.0253 gens=6 141s top1=0.3154 top1_liq=0.3154 top0.1=0.1509
+# off: r=6.5000% excess=+0.1448 gens=6 143s top1=0.3160 top1_liq=0.3160 top0.1=0.1530
+# off: r=6.0744% excess=-0.0023 gens=6 135s top1=0.3153 top1_liq=0.3153 top0.1=0.1512
+# off: r=6.0809% excess=-0.0001 gens=4 101s top1=0.3153 top1_liq=0.3153 top0.1=0.1512
+# off: DONE r*=6.0809% excess=-0.0001
+# s10: RESULT s1=0.1001 s0.1=0.1345 top1 0.3234->0.3153 (effect +0.82 pp) top0.1 0.1560->0.1512 (effect +0.48 pp) r_off=6.0809%
+# s27: mu=0.06246 beta=0.94586 s1=0.2518 s0.1=0.3529 K_gap=-0.0037 top1=0.3557 top1_liq=0.3086 3837s
+# s27: mu=0.05907 beta=0.94566 s1=0.2694 s0.1=0.3786 K_gap=+0.0010 top1=0.3610 top1_liq=0.3091 2678s
+# s27: calibrated mu=0.05907 beta=0.94566 s1=0.2694 K_gap=+0.0010
+# base: DONE r*=6.0000% excess=+0.0010
+# off: r=6.0000% excess=-0.1054 gens=6 141s top1=0.3206 top1_liq=0.3206 top0.1=0.1527
+# off: r=6.5000% excess=+0.0466 gens=6 132s top1=0.3202 top1_liq=0.3202 top0.1=0.1545
+# off: r=6.3466% excess=-0.0032 gens=6 132s top1=0.3202 top1_liq=0.3202 top0.1=0.1538
+# off: r=6.3566% excess=-0.0001 gens=5 123s top1=0.3202 top1_liq=0.3202 top0.1=0.1538
+# off: DONE r*=6.3566% excess=-0.0001
+# s27: RESULT s1=0.2694 s0.1=0.3786 top1 0.3610->0.3202 (effect +4.08 pp) top0.1 0.1937->0.1538 (effect +3.99 pp) r_off=6.3566%
+# all done Thu Oct 22 01:47:37 2026
+# start Sun Oct 25 12:40:52 2026 ['theta1_t2', 'theta1']
+# theta1_t2: mu=0.07500 beta=0.94703 s1=0.1525 s0.1=0.2386 K_gap=-0.0173 top1=0.3418 top1_liq=0.3120 10766s
+# theta1_t2: mu=0.06538 beta=0.94665 s1=0.1961 s0.1=0.3017 K_gap=-0.0074 top1=0.3519 top1_liq=0.3120 9731s
+# theta1_t2: mu=0.06353 beta=0.94674 s1=0.2071 s0.1=0.3174 K_gap=+0.0007 top1=0.3543 top1_liq=0.3117 8532s
+# theta1_t2: calibrated mu=0.06353 beta=0.94674 s1=0.2071 K_gap=+0.0007
+# base: DONE r*=6.0000% excess=+0.0007
+# off: r=6.0000% excess=-0.0773 gens=6 196s top1=0.3188 top1_liq=0.3188 top0.1=0.1520
+# off: r=6.5000% excess=+0.0811 gens=6 221s top1=0.3185 top1_liq=0.3185 top0.1=0.1539
+# off: r=6.2440% excess=-0.0041 gens=6 203s top1=0.3185 top1_liq=0.3185 top0.1=0.1528
+# off: r=6.2565% excess=-0.0002 gens=5 182s top1=0.3184 top1_liq=0.3184 top0.1=0.1529
+# off: DONE r*=6.2565% excess=-0.0002
+# theta1_t2: RESULT s1=0.2071 s0.1=0.3174 top1 0.3543->0.3184 (effect +3.58 pp) top0.1 0.1889->0.1529 (effect +3.60 pp) r_off=6.2565% top1_dfa 0.3326->0.3184 tier2_top1=0.031 tier2_top0.1=0.061
+# theta1: mu=0.07500 beta=0.94703 s1=0.1553 s0.1=0.2433 K_gap=-0.0160 top1=0.3426 top1_liq=0.3119 3535s
+# theta1: mu=0.06586 beta=0.94666 s1=0.1995 s0.1=0.3076 K_gap=-0.0054 top1=0.3531 top1_liq=0.3120 2991s
+# theta1: mu=0.06476 beta=0.94673 s1=0.2062 s0.1=0.3171 K_gap=+0.0002 top1=0.3545 top1_liq=0.3118 2016s
+# theta1: calibrated mu=0.06476 beta=0.94673 s1=0.2062 K_gap=+0.0002
+# base: DONE r*=6.0000% excess=+0.0002
+# off: r=6.0000% excess=-0.0775 gens=6 123s top1=0.3188 top1_liq=0.3188 top0.1=0.1520
+# off: r=6.5000% excess=+0.0809 gens=6 130s top1=0.3185 top1_liq=0.3185 top0.1=0.1539
+# off: r=6.2447% excess=-0.0041 gens=6 121s top1=0.3185 top1_liq=0.3185 top0.1=0.1528
+# off: r=6.2571% excess=-0.0002 gens=5 108s top1=0.3185 top1_liq=0.3185 top0.1=0.1529
+# off: DONE r*=6.2571% excess=-0.0002
+# theta1: RESULT s1=0.2062 s0.1=0.3171 top1 0.3545->0.3185 (effect +3.60 pp) top0.1 0.1894->0.1529 (effect +3.65 pp) r_off=6.2571% top1_dfa 0.3327->0.3185 tier2_top1=0.000 tier2_top0.1=0.000
+# all done Sun Oct 25 23:28:25 2026
+# start Mon Oct 26 15:05:29 2026 ['ret05', 'ret10']
+# ret05: mu=0.07500 beta=0.94703 s1=0.2222 s0.1=0.3084 K_gap=+0.0116 top1=0.3463 top1_liq=0.3068 3553s
+# ret05: mu=0.07768 beta=0.94693 s1=0.2118 s0.1=0.2927 K_gap=+0.0034 top1=0.3440 top1_liq=0.3071 2446s
+# ret05: mu=0.07931 beta=0.94692 s1=0.2063 s0.1=0.2844 K_gap=+0.0002 top1=0.3428 top1_liq=0.3071 1917s
+# ret05: calibrated mu=0.07931 beta=0.94692 s1=0.2063 K_gap=+0.0002
+# base: DONE r*=6.0000% excess=+0.0002
+# off: r=6.0000% excess=-0.0725 gens=6 126s top1=0.3185 top1_liq=0.3185 top0.1=0.1519
+# off: r=6.5000% excess=+0.0870 gens=6 131s top1=0.3182 top1_liq=0.3182 top0.1=0.1538
+# off: r=6.2273% excess=-0.0041 gens=6 122s top1=0.3181 top1_liq=0.3181 top0.1=0.1527
+# off: r=6.2396% excess=-0.0002 gens=5 106s top1=0.3181 top1_liq=0.3181 top0.1=0.1527
+# off: DONE r*=6.2396% excess=-0.0002
+# ret05: RESULT s1=0.2063 s0.1=0.2844 top1 0.3428->0.3181 (effect +2.47 pp) top0.1 0.1742->0.1527 (effect +2.15 pp) r_off=6.2396% top1_dfa 0.3261->0.3181 tier2_top1=0.000 tier2_top0.1=0.000
+# ret10: mu=0.07500 beta=0.94703 s1=0.2425 s0.1=0.3360 K_gap=+0.0226 top1=0.3512 top1_liq=0.3071 3430s
+# ret10: mu=0.08114 beta=0.94693 s1=0.2170 s0.1=0.2979 K_gap=+0.0058 top1=0.3451 top1_liq=0.3073 2527s
+# ret10: mu=0.08393 beta=0.94694 s1=0.2076 s0.1=0.2837 K_gap=+0.0012 top1=0.3429 top1_liq=0.3073 2385s
+# ret10: calibrated mu=0.08393 beta=0.94694 s1=0.2076 K_gap=+0.0012
+# base: DONE r*=6.0000% excess=+0.0012
+# off: r=6.0000% excess=-0.0722 gens=6 122s top1=0.3185 top1_liq=0.3185 top0.1=0.1519
+# off: r=6.5000% excess=+0.0873 gens=6 115s top1=0.3182 top1_liq=0.3182 top0.1=0.1538
+# off: r=6.2262% excess=-0.0041 gens=6 129s top1=0.3181 top1_liq=0.3181 top0.1=0.1527
+# off: r=6.2385% excess=-0.0002 gens=5 106s top1=0.3181 top1_liq=0.3181 top0.1=0.1527
+# off: DONE r*=6.2385% excess=-0.0002
+# ret10: RESULT s1=0.2076 s0.1=0.2837 top1 0.3429->0.3181 (effect +2.48 pp) top0.1 0.1742->0.1527 (effect +2.15 pp) r_off=6.2385% top1_dfa 0.3262->0.3181 tier2_top1=0.000 tier2_top0.1=0.000
+# all done Mon Oct 26 19:52:24 2026

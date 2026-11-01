@@ -1,0 +1,7 @@
+# Python 3.11 or later. Versions below are the minimums we expect to work. The results were produced on
+# the author's Windows PC with the versions current in October 2026.
+numpy>=1.26
+scipy>=1.11
+numba>=0.59
+# only for code/scf_takeup_check.py
+pandas>=2.0

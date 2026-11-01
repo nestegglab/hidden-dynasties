@@ -1,0 +1,166 @@
+# start V2 Thu Oct 15 15:05:51 2026 targets=['K_gap', 'top1_liquid_only', 'top0.1_liquid_only', 'top10_liquid_only', 'trust_share_of_top1_wealth', 'trust_share_of_top0.1_wealth', 'estate_tax/gross_50M+', 'log_share_deaths_taxable', 'charity/taxable_estates', 'wealth_75plus/mean', 'inter_vivos_share']
+[1] 4471s ss=96.281 x=[0.9449, -2.2168, 0.2809, 0.0756, 0.0389, 0.7997, -0.8893] top1_liquid_only=0.3318 top0.1_liquid_only=0.1675 top10_liquid_only=0.7162 trust_share_of_top1_wealth=0.3614 trust_share_of_top0.1_wealth=0.4961 estate_tax/gross_50M+=0.2697 share_deaths_taxable=0.0016 charity/taxable_estates=0.2100 wealth_75plus/mean=1.3474 inter_vivos_share=0.1192 K_gap=0.0715 top1=0.4131 parent_child_wealth_elasticity=0.2293 rank_rank_child_35_39=0.3997 takeup_top1=0.2930
+[2] 3261s ss=175.479 x=[0.9458, -2.2168, 0.2809, 0.0756, 0.0389, 0.7997, -0.8893] top1_liquid_only=0.3308 top0.1_liquid_only=0.1676 top10_liquid_only=0.7139 trust_share_of_top1_wealth=0.3760 trust_share_of_top0.1_wealth=0.5125 estate_tax/gross_50M+=0.2686 share_deaths_taxable=0.0017 charity/taxable_estates=0.2118 wealth_75plus/mean=1.3642 inter_vivos_share=0.1160 K_gap=0.1127 top1=0.4170 parent_child_wealth_elasticity=0.2315 rank_rank_child_35_39=0.4009 takeup_top1=0.3083
+[3] 3079s ss=119.082 x=[0.9449, -2.2833, 0.2809, 0.0756, 0.0389, 0.7997, -0.8893] top1_liquid_only=0.3331 top0.1_liquid_only=0.1686 top10_liquid_only=0.7169 trust_share_of_top1_wealth=0.3707 trust_share_of_top0.1_wealth=0.5067 estate_tax/gross_50M+=0.2706 share_deaths_taxable=0.0017 charity/taxable_estates=0.2073 wealth_75plus/mean=1.3595 inter_vivos_share=0.1174 K_gap=0.0841 top1=0.4176 parent_child_wealth_elasticity=0.2293 rank_rank_child_35_39=0.3994 takeup_top1=0.2999
+[4] 2676s ss=94.664 x=[0.9449, -2.2168, 0.2949, 0.0756, 0.0389, 0.7997, -0.8893] top1_liquid_only=0.3317 top0.1_liquid_only=0.1675 top10_liquid_only=0.7161 trust_share_of_top1_wealth=0.3605 trust_share_of_top0.1_wealth=0.4949 estate_tax/gross_50M+=0.2673 share_deaths_taxable=0.0016 charity/taxable_estates=0.2166 wealth_75plus/mean=1.3474 inter_vivos_share=0.1190 K_gap=0.0704 top1=0.4126 parent_child_wealth_elasticity=0.2292 rank_rank_child_35_39=0.3997 takeup_top1=0.2929
+[5] 3042s ss=49.965 x=[0.9449, -2.2168, 0.2809, 0.0794, 0.0389, 0.7997, -0.8893] top1_liquid_only=0.3309 top0.1_liquid_only=0.1661 top10_liquid_only=0.7158 trust_share_of_top1_wealth=0.3194 trust_share_of_top0.1_wealth=0.4455 estate_tax/gross_50M+=0.2721 share_deaths_taxable=0.0016 charity/taxable_estates=0.2055 wealth_75plus/mean=1.3141 inter_vivos_share=0.1254 K_gap=0.0374 top1=0.3988 parent_child_wealth_elasticity=0.2294 rank_rank_child_35_39=0.4009 takeup_top1=0.2747
+[6] 3836s ss=262.131 x=[0.9449, -2.2168, 0.2809, 0.0756, 0.0408, 0.7997, -0.8893] top1_liquid_only=0.3339 top0.1_liquid_only=0.1705 top10_liquid_only=0.7171 trust_share_of_top1_wealth=0.4291 trust_share_of_top0.1_wealth=0.5685 estate_tax/gross_50M+=0.2654 share_deaths_taxable=0.0016 charity/taxable_estates=0.2176 wealth_75plus/mean=1.4087 inter_vivos_share=0.1086 K_gap=0.1402 top1=0.4375 parent_child_wealth_elasticity=0.2289 rank_rank_child_35_39=0.3965 takeup_top1=0.3428
+[7] 2859s ss=160.756 x=[0.9449, -2.2168, 0.2809, 0.0756, 0.0389, 0.8237, -0.8893] top1_liquid_only=0.3321 top0.1_liquid_only=0.1683 top10_liquid_only=0.7163 trust_share_of_top1_wealth=0.3997 trust_share_of_top0.1_wealth=0.5411 estate_tax/gross_50M+=0.2649 share_deaths_taxable=0.0016 charity/taxable_estates=0.2171 wealth_75plus/mean=1.3758 inter_vivos_share=0.1140 K_gap=0.1027 top1=0.4278 parent_child_wealth_elasticity=0.2292 rank_rank_child_35_39=0.3994 takeup_top1=0.3014
+[8] 3445s ss=98.998 x=[0.9449, -2.2168, 0.2809, 0.0756, 0.0389, 0.7997, -0.916] top1_liquid_only=0.3319 top0.1_liquid_only=0.1677 top10_liquid_only=0.7163 trust_share_of_top1_wealth=0.3618 trust_share_of_top0.1_wealth=0.4965 estate_tax/gross_50M+=0.2695 share_deaths_taxable=0.0016 charity/taxable_estates=0.2102 wealth_75plus/mean=1.3462 inter_vivos_share=0.1214 K_gap=0.0735 top1=0.4134 parent_child_wealth_elasticity=0.2306 rank_rank_child_35_39=0.4003 takeup_top1=0.2934
+[9] 3426s ss=28.740 x=[0.9458, -2.1599, 0.2911, 0.0842, 0.0384, 0.7904, -0.9895] top1_liquid_only=0.3279 top0.1_liquid_only=0.1639 top10_liquid_only=0.7131 trust_share_of_top1_wealth=0.2543 trust_share_of_top0.1_wealth=0.3624 estate_tax/gross_50M+=0.2721 share_deaths_taxable=0.0016 charity/taxable_estates=0.2067 wealth_75plus/mean=1.2630 inter_vivos_share=0.1436 K_gap=0.0189 top1=0.3776 parent_child_wealth_elasticity=0.2364 rank_rank_child_35_39=0.4069 takeup_top1=0.2365
+[10] 2849s ss=54.211 x=[0.9467, -2.1599, 0.2911, 0.0842, 0.0384, 0.7904, -0.9895] top1_liquid_only=0.3268 top0.1_liquid_only=0.1637 top10_liquid_only=0.7105 trust_share_of_top1_wealth=0.2649 trust_share_of_top0.1_wealth=0.3764 estate_tax/gross_50M+=0.2714 share_deaths_taxable=0.0017 charity/taxable_estates=0.2080 wealth_75plus/mean=1.2759 inter_vivos_share=0.1407 K_gap=0.0532 top1=0.3792 parent_child_wealth_elasticity=0.2391 rank_rank_child_35_39=0.4038 takeup_top1=0.2496
+[11] 2859s ss=33.846 x=[0.9458, -2.2247, 0.2911, 0.0842, 0.0384, 0.7904, -0.9895] top1_liquid_only=0.3292 top0.1_liquid_only=0.1648 top10_liquid_only=0.7138 trust_share_of_top1_wealth=0.2611 trust_share_of_top0.1_wealth=0.3713 estate_tax/gross_50M+=0.2732 share_deaths_taxable=0.0016 charity/taxable_estates=0.2038 wealth_75plus/mean=1.2722 inter_vivos_share=0.1422 K_gap=0.0274 top1=0.3807 parent_child_wealth_elasticity=0.2365 rank_rank_child_35_39=0.4067 takeup_top1=0.2422
+[12] 2660s ss=29.197 x=[0.9458, -2.1599, 0.3057, 0.0842, 0.0384, 0.7904, -0.9895] top1_liquid_only=0.3281 top0.1_liquid_only=0.1641 top10_liquid_only=0.7132 trust_share_of_top1_wealth=0.2541 trust_share_of_top0.1_wealth=0.3618 estate_tax/gross_50M+=0.2695 share_deaths_taxable=0.0016 charity/taxable_estates=0.2132 wealth_75plus/mean=1.2646 inter_vivos_share=0.1434 K_gap=0.0191 top1=0.3777 parent_child_wealth_elasticity=0.2364 rank_rank_child_35_39=0.4069 takeup_top1=0.2373
+[13] 2842s ss=23.481 x=[0.9458, -2.1599, 0.2911, 0.0884, 0.0384, 0.7904, -0.9895] top1_liquid_only=0.3277 top0.1_liquid_only=0.1634 top10_liquid_only=0.7130 trust_share_of_top1_wealth=0.2206 trust_share_of_top0.1_wealth=0.3164 estate_tax/gross_50M+=0.2736 share_deaths_taxable=0.0016 charity/taxable_estates=0.2034 wealth_75plus/mean=1.2402 inter_vivos_share=0.1489 K_gap=-0.0020 top1=0.3688 parent_child_wealth_elasticity=0.2365 rank_rank_child_35_39=0.4080 takeup_top1=0.2149
+[14] 3819s ss=68.807 x=[0.9458, -2.1599, 0.2911, 0.0842, 0.0403, 0.7904, -0.9895] top1_liquid_only=0.3288 top0.1_liquid_only=0.1653 top10_liquid_only=0.7135 trust_share_of_top1_wealth=0.3099 trust_share_of_top0.1_wealth=0.4323 estate_tax/gross_50M+=0.2694 share_deaths_taxable=0.0016 charity/taxable_estates=0.2120 wealth_75plus/mean=1.3059 inter_vivos_share=0.1344 K_gap=0.0604 top1=0.3926 parent_child_wealth_elasticity=0.2361 rank_rank_child_35_39=0.4042 takeup_top1=0.2803
+[15] 2849s ss=39.711 x=[0.9458, -2.1599, 0.2911, 0.0842, 0.0384, 0.8141, -0.9895] top1_liquid_only=0.3279 top0.1_liquid_only=0.1641 top10_liquid_only=0.7131 trust_share_of_top1_wealth=0.2814 trust_share_of_top0.1_wealth=0.3997 estate_tax/gross_50M+=0.2695 share_deaths_taxable=0.0016 charity/taxable_estates=0.2109 wealth_75plus/mean=1.2795 inter_vivos_share=0.1399 K_gap=0.0346 top1=0.3857 parent_child_wealth_elasticity=0.2363 rank_rank_child_35_39=0.4066 takeup_top1=0.2437
+[16] 3424s ss=28.910 x=[0.9458, -2.1599, 0.2911, 0.0842, 0.0384, 0.7904, -1.0192] top1_liquid_only=0.3277 top0.1_liquid_only=0.1638 top10_liquid_only=0.7132 trust_share_of_top1_wealth=0.2544 trust_share_of_top0.1_wealth=0.3623 estate_tax/gross_50M+=0.2720 share_deaths_taxable=0.0016 charity/taxable_estates=0.2067 wealth_75plus/mean=1.2615 inter_vivos_share=0.1461 K_gap=0.0204 top1=0.3774 parent_child_wealth_elasticity=0.2377 rank_rank_child_35_39=0.4074 takeup_top1=0.2377
+[17] 3024s ss=16.440 x=[0.9454, -2.0461, 0.2616, 0.0864, 0.0377, 0.7994, -1.6592] top1_liquid_only=0.3259 top0.1_liquid_only=0.1583 top10_liquid_only=0.7136 trust_share_of_top1_wealth=0.2001 trust_share_of_top0.1_wealth=0.2917 estate_tax/gross_50M+=0.2765 share_deaths_taxable=0.0015 charity/taxable_estates=0.1951 wealth_75plus/mean=1.1779 inter_vivos_share=0.2126 K_gap=0.0022 top1=0.3618 parent_child_wealth_elasticity=0.2681 rank_rank_child_35_39=0.4254 takeup_top1=0.2075
+[18] 2652s ss=26.722 x=[0.9463, -2.0461, 0.2616, 0.0864, 0.0377, 0.7994, -1.6592] top1_liquid_only=0.3244 top0.1_liquid_only=0.1581 top10_liquid_only=0.7109 trust_share_of_top1_wealth=0.2081 trust_share_of_top0.1_wealth=0.3029 estate_tax/gross_50M+=0.2761 share_deaths_taxable=0.0016 charity/taxable_estates=0.1960 wealth_75plus/mean=1.1902 inter_vivos_share=0.2073 K_gap=0.0328 top1=0.3621 parent_child_wealth_elasticity=0.2707 rank_rank_child_35_39=0.4240 takeup_top1=0.2186
+[19] 2661s ss=17.563 x=[0.9454, -2.1075, 0.2616, 0.0864, 0.0377, 0.7994, -1.6592] top1_liquid_only=0.3270 top0.1_liquid_only=0.1591 top10_liquid_only=0.7143 trust_share_of_top1_wealth=0.2057 trust_share_of_top0.1_wealth=0.2996 estate_tax/gross_50M+=0.2778 share_deaths_taxable=0.0016 charity/taxable_estates=0.1921 wealth_75plus/mean=1.1863 inter_vivos_share=0.2100 K_gap=0.0088 top1=0.3642 parent_child_wealth_elasticity=0.2676 rank_rank_child_35_39=0.4251 takeup_top1=0.2125
+[20] 2523s ss=16.339 x=[0.9454, -2.0461, 0.2747, 0.0864, 0.0377, 0.7994, -1.6592] top1_liquid_only=0.3258 top0.1_liquid_only=0.1583 top10_liquid_only=0.7135 trust_share_of_top1_wealth=0.1997 trust_share_of_top0.1_wealth=0.2910 estate_tax/gross_50M+=0.2741 share_deaths_taxable=0.0015 charity/taxable_estates=0.2016 wealth_75plus/mean=1.1785 inter_vivos_share=0.2124 K_gap=0.0017 top1=0.3616 parent_child_wealth_elasticity=0.2680 rank_rank_child_35_39=0.4254 takeup_top1=0.2074
+[21] 2662s ss=19.505 x=[0.9454, -2.0461, 0.2616, 0.0908, 0.0377, 0.7994, -1.6592] top1_liquid_only=0.3258 top0.1_liquid_only=0.1580 top10_liquid_only=0.7135 trust_share_of_top1_wealth=0.1730 trust_share_of_top0.1_wealth=0.2524 estate_tax/gross_50M+=0.2776 share_deaths_taxable=0.0015 charity/taxable_estates=0.1924 wealth_75plus/mean=1.1603 inter_vivos_share=0.2182 K_gap=-0.0131 top1=0.3556 parent_child_wealth_elasticity=0.2680 rank_rank_child_35_39=0.4263 takeup_top1=0.1875
+[22] 2911s ss=27.781 x=[0.9454, -2.0461, 0.2616, 0.0864, 0.0395, 0.7994, -1.6592] top1_liquid_only=0.3263 top0.1_liquid_only=0.1591 top10_liquid_only=0.7137 trust_share_of_top1_wealth=0.2458 trust_share_of_top0.1_wealth=0.3535 estate_tax/gross_50M+=0.2746 share_deaths_taxable=0.0015 charity/taxable_estates=0.1993 wealth_75plus/mean=1.2118 inter_vivos_share=0.2021 K_gap=0.0327 top1=0.3723 parent_child_wealth_elasticity=0.2681 rank_rank_child_35_39=0.4232 takeup_top1=0.2475
+[23] 2946s ss=18.826 x=[0.9454, -2.0461, 0.2616, 0.0864, 0.0377, 0.8234, -1.6592] top1_liquid_only=0.3258 top0.1_liquid_only=0.1584 top10_liquid_only=0.7135 trust_share_of_top1_wealth=0.2284 trust_share_of_top0.1_wealth=0.3347 estate_tax/gross_50M+=0.2735 share_deaths_taxable=0.0015 charity/taxable_estates=0.1997 wealth_75plus/mean=1.1939 inter_vivos_share=0.2076 K_gap=0.0165 top1=0.3696 parent_child_wealth_elasticity=0.2680 rank_rank_child_35_39=0.4253 takeup_top1=0.2143
+[24] 2897s ss=16.494 x=[0.9454, -2.0461, 0.2616, 0.0864, 0.0377, 0.7994, -1.709] top1_liquid_only=0.3263 top0.1_liquid_only=0.1578 top10_liquid_only=0.7139 trust_share_of_top1_wealth=0.1999 trust_share_of_top0.1_wealth=0.2919 estate_tax/gross_50M+=0.2766 share_deaths_taxable=0.0015 charity/taxable_estates=0.1952 wealth_75plus/mean=1.1738 inter_vivos_share=0.2191 K_gap=0.0065 top1=0.3619 parent_child_wealth_elasticity=0.2711 rank_rank_child_35_39=0.4270 takeup_top1=0.2096
+[25] 2891s ss=21.346 x=[0.9462, -1.9094, 0.2167, 0.0931, 0.0294, 1.0123, -1.8175] top1_liquid_only=0.3182 top0.1_liquid_only=0.1503 top10_liquid_only=0.7079 trust_share_of_top1_wealth=0.1513 trust_share_of_top0.1_wealth=0.2331 estate_tax/gross_50M+=0.2693 share_deaths_taxable=0.0015 charity/taxable_estates=0.1921 wealth_75plus/mean=1.1061 inter_vivos_share=0.2472 K_gap=-0.0201 top1=0.3472 parent_child_wealth_elasticity=0.2790 rank_rank_child_35_39=0.4359 takeup_top1=0.1195
+[26] 3213s ss=14.269 x=[0.9453, -1.8302, 0.2323, 0.0848, 0.0364, 0.8432, -1.8147] top1_liquid_only=0.3225 top0.1_liquid_only=0.1543 top10_liquid_only=0.7119 trust_share_of_top1_wealth=0.2184 trust_share_of_top0.1_wealth=0.3280 estate_tax/gross_50M+=0.2699 share_deaths_taxable=0.0014 charity/taxable_estates=0.2021 wealth_75plus/mean=1.1563 inter_vivos_share=0.2294 K_gap=0.0010 top1=0.3654 parent_child_wealth_elasticity=0.2757 rank_rank_child_35_39=0.4314 takeup_top1=0.1871
+[27] 2698s ss=24.428 x=[0.9462, -1.8302, 0.2323, 0.0848, 0.0364, 0.8432, -1.8147] top1_liquid_only=0.3211 top0.1_liquid_only=0.1539 top10_liquid_only=0.7092 trust_share_of_top1_wealth=0.2264 trust_share_of_top0.1_wealth=0.3391 estate_tax/gross_50M+=0.2694 share_deaths_taxable=0.0014 charity/taxable_estates=0.2030 wealth_75plus/mean=1.1672 inter_vivos_share=0.2258 K_gap=0.0325 top1=0.3657 parent_child_wealth_elasticity=0.2794 rank_rank_child_35_39=0.4311 takeup_top1=0.1973
+[28] 2664s ss=14.879 x=[0.9453, -1.8851, 0.2323, 0.0848, 0.0364, 0.8432, -1.8147] top1_liquid_only=0.3235 top0.1_liquid_only=0.1550 top10_liquid_only=0.7124 trust_share_of_top1_wealth=0.2240 trust_share_of_top0.1_wealth=0.3357 estate_tax/gross_50M+=0.2711 share_deaths_taxable=0.0014 charity/taxable_estates=0.1989 wealth_75plus/mean=1.1637 inter_vivos_share=0.2276 K_gap=0.0075 top1=0.3677 parent_child_wealth_elasticity=0.2760 rank_rank_child_35_39=0.4314 takeup_top1=0.1917
+[29] 2504s ss=14.491 x=[0.9453, -1.8302, 0.2439, 0.0848, 0.0364, 0.8432, -1.8147] top1_liquid_only=0.3224 top0.1_liquid_only=0.1543 top10_liquid_only=0.7118 trust_share_of_top1_wealth=0.2176 trust_share_of_top0.1_wealth=0.3268 estate_tax/gross_50M+=0.2676 share_deaths_taxable=0.0014 charity/taxable_estates=0.2086 wealth_75plus/mean=1.1565 inter_vivos_share=0.2293 K_gap=0.0003 top1=0.3650 parent_child_wealth_elasticity=0.2757 rank_rank_child_35_39=0.4314 takeup_top1=0.1869
+[30] 2847s ss=17.080 x=[0.9453, -1.8302, 0.2323, 0.0891, 0.0364, 0.8432, -1.8147] top1_liquid_only=0.3224 top0.1_liquid_only=0.1540 top10_liquid_only=0.7118 trust_share_of_top1_wealth=0.1899 trust_share_of_top0.1_wealth=0.2874 estate_tax/gross_50M+=0.2715 share_deaths_taxable=0.0014 charity/taxable_estates=0.1986 wealth_75plus/mean=1.1376 inter_vivos_share=0.2358 K_gap=-0.0150 top1=0.3584 parent_child_wealth_elasticity=0.2757 rank_rank_child_35_39=0.4322 takeup_top1=0.1688
+[31] 2839s ss=25.624 x=[0.9453, -1.8302, 0.2323, 0.0848, 0.0382, 0.8432, -1.8147] top1_liquid_only=0.3230 top0.1_liquid_only=0.1550 top10_liquid_only=0.7120 trust_share_of_top1_wealth=0.2627 trust_share_of_top0.1_wealth=0.3865 estate_tax/gross_50M+=0.2675 share_deaths_taxable=0.0014 charity/taxable_estates=0.2070 wealth_75plus/mean=1.1898 inter_vivos_share=0.2184 K_gap=0.0307 top1=0.3762 parent_child_wealth_elasticity=0.2758 rank_rank_child_35_39=0.4295 takeup_top1=0.2227
+[32] 2823s ss=15.146 x=[0.9453, -1.8302, 0.2323, 0.0848, 0.0364, 0.8685, -1.8147] top1_liquid_only=0.3218 top0.1_liquid_only=0.1536 top10_liquid_only=0.7115 trust_share_of_top1_wealth=0.2341 trust_share_of_top0.1_wealth=0.3507 estate_tax/gross_50M+=0.2666 share_deaths_taxable=0.0014 charity/taxable_estates=0.2077 wealth_75plus/mean=1.1645 inter_vivos_share=0.2264 K_gap=0.0078 top1=0.3686 parent_child_wealth_elasticity=0.2757 rank_rank_child_35_39=0.4313 takeup_top1=0.1946
+[33] 3212s ss=14.247 x=[0.9453, -1.8302, 0.2323, 0.0848, 0.0364, 0.8432, -1.8691] top1_liquid_only=0.3226 top0.1_liquid_only=0.1541 top10_liquid_only=0.7118 trust_share_of_top1_wealth=0.2176 trust_share_of_top0.1_wealth=0.3271 estate_tax/gross_50M+=0.2699 share_deaths_taxable=0.0014 charity/taxable_estates=0.2021 wealth_75plus/mean=1.1527 inter_vivos_share=0.2349 K_gap=0.0041 top1=0.3651 parent_child_wealth_elasticity=0.2792 rank_rank_child_35_39=0.4333 takeup_top1=0.1874
+[34] 2847s ss=14.248 x=[0.9454, -1.9444, 0.2174, 0.0838, 0.033, 0.9342, -1.97] top1_liquid_only=0.3218 top0.1_liquid_only=0.1520 top10_liquid_only=0.7117 trust_share_of_top1_wealth=0.2105 trust_share_of_top0.1_wealth=0.3218 estate_tax/gross_50M+=0.2689 share_deaths_taxable=0.0014 charity/taxable_estates=0.1975 wealth_75plus/mean=1.1355 inter_vivos_share=0.2518 K_gap=0.0083 top1=0.3641 parent_child_wealth_elasticity=0.2864 rank_rank_child_35_39=0.4391 takeup_top1=0.1735
+[35] 2592s ss=27.568 x=[0.9463, -1.9444, 0.2174, 0.0838, 0.033, 0.9342, -1.97] top1_liquid_only=0.3201 top0.1_liquid_only=0.1515 top10_liquid_only=0.7089 trust_share_of_top1_wealth=0.2175 trust_share_of_top0.1_wealth=0.3313 estate_tax/gross_50M+=0.2685 share_deaths_taxable=0.0015 charity/taxable_estates=0.1985 wealth_75plus/mean=1.1467 inter_vivos_share=0.2465 K_gap=0.0380 top1=0.3637 parent_child_wealth_elasticity=0.2899 rank_rank_child_35_39=0.4379 takeup_top1=0.1829
+[36] 2612s ss=15.618 x=[0.9454, -2.0028, 0.2174, 0.0838, 0.033, 0.9342, -1.97] top1_liquid_only=0.3225 top0.1_liquid_only=0.1525 top10_liquid_only=0.7122 trust_share_of_top1_wealth=0.2164 trust_share_of_top0.1_wealth=0.3297 estate_tax/gross_50M+=0.2700 share_deaths_taxable=0.0015 charity/taxable_estates=0.1954 wealth_75plus/mean=1.1431 inter_vivos_share=0.2494 K_gap=0.0144 top1=0.3662 parent_child_wealth_elasticity=0.2865 rank_rank_child_35_39=0.4390 takeup_top1=0.1786
+[37] 2618s ss=14.202 x=[0.9454, -1.9444, 0.2282, 0.0838, 0.033, 0.9342, -1.97] top1_liquid_only=0.3217 top0.1_liquid_only=0.1519 top10_liquid_only=0.7117 trust_share_of_top1_wealth=0.2095 trust_share_of_top0.1_wealth=0.3202 estate_tax/gross_50M+=0.2666 share_deaths_taxable=0.0014 charity/taxable_estates=0.2034 wealth_75plus/mean=1.1354 inter_vivos_share=0.2517 K_gap=0.0074 top1=0.3636 parent_child_wealth_elasticity=0.2863 rank_rank_child_35_39=0.4391 takeup_top1=0.1733
+[38] 2611s ss=14.592 x=[0.9454, -1.9444, 0.2174, 0.088, 0.033, 0.9342, -1.97] top1_liquid_only=0.3220 top0.1_liquid_only=0.1520 top10_liquid_only=0.7119 trust_share_of_top1_wealth=0.1869 trust_share_of_top0.1_wealth=0.2880 estate_tax/gross_50M+=0.2708 share_deaths_taxable=0.0014 charity/taxable_estates=0.1933 wealth_75plus/mean=1.1208 inter_vivos_share=0.2572 K_gap=-0.0044 top1=0.3586 parent_child_wealth_elasticity=0.2863 rank_rank_child_35_39=0.4396 takeup_top1=0.1564
+[39] 2809s ss=22.664 x=[0.9454, -1.9444, 0.2174, 0.0838, 0.0346, 0.9342, -1.97] top1_liquid_only=0.3219 top0.1_liquid_only=0.1523 top10_liquid_only=0.7117 trust_share_of_top1_wealth=0.2435 trust_share_of_top0.1_wealth=0.3659 estate_tax/gross_50M+=0.2668 share_deaths_taxable=0.0014 charity/taxable_estates=0.2021 wealth_75plus/mean=1.1594 inter_vivos_share=0.2432 K_gap=0.0293 top1=0.3716 parent_child_wealth_elasticity=0.2865 rank_rank_child_35_39=0.4377 takeup_top1=0.2029
+[40] 2804s ss=15.134 x=[0.9454, -1.9444, 0.2174, 0.0838, 0.033, 0.9622, -1.97] top1_liquid_only=0.3209 top0.1_liquid_only=0.1513 top10_liquid_only=0.7113 trust_share_of_top1_wealth=0.2218 trust_share_of_top0.1_wealth=0.3364 estate_tax/gross_50M+=0.2665 share_deaths_taxable=0.0014 charity/taxable_estates=0.2018 wealth_75plus/mean=1.1406 inter_vivos_share=0.2498 K_gap=0.0125 top1=0.3657 parent_child_wealth_elasticity=0.2862 rank_rank_child_35_39=0.4389 takeup_top1=0.1835
+[41] 2605s ss=15.923 x=[0.9454, -1.9444, 0.2174, 0.0838, 0.033, 0.9342, -2.0291] top1_liquid_only=0.3228 top0.1_liquid_only=0.1519 top10_liquid_only=0.7121 trust_share_of_top1_wealth=0.2093 trust_share_of_top0.1_wealth=0.3209 estate_tax/gross_50M+=0.2688 share_deaths_taxable=0.0014 charity/taxable_estates=0.1977 wealth_75plus/mean=1.1290 inter_vivos_share=0.2620 K_gap=0.0152 top1=0.3646 parent_child_wealth_elasticity=0.2922 rank_rank_child_35_39=0.4420 takeup_top1=0.1756
+[42] 2234s ss=13.618 x=[0.9454, -1.8921, 0.2068, 0.081, 0.0323, 0.9392, -1.9375] top1_liquid_only=0.3206 top0.1_liquid_only=0.1514 top10_liquid_only=0.7109 trust_share_of_top1_wealth=0.2135 trust_share_of_top0.1_wealth=0.3261 estate_tax/gross_50M+=0.2694 share_deaths_taxable=0.0014 charity/taxable_estates=0.1954 wealth_75plus/mean=1.1352 inter_vivos_share=0.2476 K_gap=0.0027 top1=0.3639 parent_child_wealth_elasticity=0.2840 rank_rank_child_35_39=0.4381 takeup_top1=0.1715
+[43] 2426s ss=23.961 x=[0.9463, -1.8921, 0.2068, 0.081, 0.0323, 0.9392, -1.9375] top1_liquid_only=0.3190 top0.1_liquid_only=0.1509 top10_liquid_only=0.7081 trust_share_of_top1_wealth=0.2206 trust_share_of_top0.1_wealth=0.3359 estate_tax/gross_50M+=0.2689 share_deaths_taxable=0.0015 charity/taxable_estates=0.1962 wealth_75plus/mean=1.1460 inter_vivos_share=0.2430 K_gap=0.0329 top1=0.3637 parent_child_wealth_elasticity=0.2878 rank_rank_child_35_39=0.4372 takeup_top1=0.1808
+[44] 2605s ss=14.322 x=[0.9454, -1.9489, 0.2068, 0.081, 0.0323, 0.9392, -1.9375] top1_liquid_only=0.3213 top0.1_liquid_only=0.1519 top10_liquid_only=0.7113 trust_share_of_top1_wealth=0.2195 trust_share_of_top0.1_wealth=0.3344 estate_tax/gross_50M+=0.2703 share_deaths_taxable=0.0015 charity/taxable_estates=0.1934 wealth_75plus/mean=1.1428 inter_vivos_share=0.2453 K_gap=0.0088 top1=0.3661 parent_child_wealth_elasticity=0.2842 rank_rank_child_35_39=0.4380 takeup_top1=0.1764
+[45] 2621s ss=13.639 x=[0.9454, -1.8921, 0.2171, 0.081, 0.0323, 0.9392, -1.9375] top1_liquid_only=0.3205 top0.1_liquid_only=0.1514 top10_liquid_only=0.7109 trust_share_of_top1_wealth=0.2125 trust_share_of_top0.1_wealth=0.3246 estate_tax/gross_50M+=0.2671 share_deaths_taxable=0.0014 charity/taxable_estates=0.2011 wealth_75plus/mean=1.1352 inter_vivos_share=0.2475 K_gap=0.0019 top1=0.3635 parent_child_wealth_elasticity=0.2839 rank_rank_child_35_39=0.4381 takeup_top1=0.1711
+[46] 2622s ss=15.190 x=[0.9454, -1.8921, 0.2068, 0.085, 0.0323, 0.9392, -1.9375] top1_liquid_only=0.3208 top0.1_liquid_only=0.1514 top10_liquid_only=0.7110 trust_share_of_top1_wealth=0.1901 trust_share_of_top0.1_wealth=0.2928 estate_tax/gross_50M+=0.2712 share_deaths_taxable=0.0014 charity/taxable_estates=0.1913 wealth_75plus/mean=1.1206 inter_vivos_share=0.2529 K_gap=-0.0098 top1=0.3585 parent_child_wealth_elasticity=0.2840 rank_rank_child_35_39=0.4386 takeup_top1=0.1549
+[47] 2804s ss=19.661 x=[0.9454, -1.8921, 0.2068, 0.081, 0.034, 0.9392, -1.9375] top1_liquid_only=0.3207 top0.1_liquid_only=0.1518 top10_liquid_only=0.7109 trust_share_of_top1_wealth=0.2460 trust_share_of_top0.1_wealth=0.3696 estate_tax/gross_50M+=0.2673 share_deaths_taxable=0.0014 charity/taxable_estates=0.1999 wealth_75plus/mean=1.1589 inter_vivos_share=0.2392 K_gap=0.0233 top1=0.3715 parent_child_wealth_elasticity=0.2841 rank_rank_child_35_39=0.4368 takeup_top1=0.1997
+[48] 2833s ss=14.090 x=[0.9454, -1.8921, 0.2068, 0.081, 0.0323, 0.9674, -1.9375] top1_liquid_only=0.3198 top0.1_liquid_only=0.1508 top10_liquid_only=0.7105 trust_share_of_top1_wealth=0.2243 trust_share_of_top0.1_wealth=0.3399 estate_tax/gross_50M+=0.2671 share_deaths_taxable=0.0014 charity/taxable_estates=0.1996 wealth_75plus/mean=1.1401 inter_vivos_share=0.2457 K_gap=0.0068 top1=0.3654 parent_child_wealth_elasticity=0.2839 rank_rank_child_35_39=0.4379 takeup_top1=0.1813
+[49] 2617s ss=14.418 x=[0.9454, -1.8921, 0.2068, 0.081, 0.0323, 0.9392, -1.9956] top1_liquid_only=0.3214 top0.1_liquid_only=0.1513 top10_liquid_only=0.7113 trust_share_of_top1_wealth=0.2125 trust_share_of_top0.1_wealth=0.3255 estate_tax/gross_50M+=0.2692 share_deaths_taxable=0.0014 charity/taxable_estates=0.1957 wealth_75plus/mean=1.1289 inter_vivos_share=0.2576 K_gap=0.0094 top1=0.3643 parent_child_wealth_elasticity=0.2893 rank_rank_child_35_39=0.4408 takeup_top1=0.1733
+[50] 2815s ss=13.646 x=[0.9455, -1.8583, 0.2047, 0.076, 0.0312, 0.9245, -1.9239] top1_liquid_only=0.3201 top0.1_liquid_only=0.1514 top10_liquid_only=0.7102 trust_share_of_top1_wealth=0.2141 trust_share_of_top0.1_wealth=0.3285 estate_tax/gross_50M+=0.2695 share_deaths_taxable=0.0014 charity/taxable_estates=0.1951 wealth_75plus/mean=1.1350 inter_vivos_share=0.2459 K_gap=0.0040 top1=0.3641 parent_child_wealth_elasticity=0.2837 rank_rank_child_35_39=0.4387 takeup_top1=0.1665
+[51] 2849s ss=13.560 x=[0.9454, -1.8739, 0.2051, 0.0799, 0.032, 0.9378, -1.9272] top1_liquid_only=0.3202 top0.1_liquid_only=0.1513 top10_liquid_only=0.7105 trust_share_of_top1_wealth=0.2127 trust_share_of_top0.1_wealth=0.3254 estate_tax/gross_50M+=0.2694 share_deaths_taxable=0.0014 charity/taxable_estates=0.1948 wealth_75plus/mean=1.1344 inter_vivos_share=0.2466 K_gap=0.0018 top1=0.3634 parent_child_wealth_elasticity=0.2836 rank_rank_child_35_39=0.4382 takeup_top1=0.1694
+[52] 2417s ss=23.529 x=[0.9464, -1.8739, 0.2051, 0.0799, 0.032, 0.9378, -1.9272] top1_liquid_only=0.3187 top0.1_liquid_only=0.1508 top10_liquid_only=0.7077 trust_share_of_top1_wealth=0.2198 trust_share_of_top0.1_wealth=0.3351 estate_tax/gross_50M+=0.2689 share_deaths_taxable=0.0015 charity/taxable_estates=0.1964 wealth_75plus/mean=1.1451 inter_vivos_share=0.2422 K_gap=0.0321 top1=0.3633 parent_child_wealth_elasticity=0.2872 rank_rank_child_35_39=0.4367 takeup_top1=0.1787
+[53] 2629s ss=14.128 x=[0.9454, -1.9301, 0.2051, 0.0799, 0.032, 0.9378, -1.9272] top1_liquid_only=0.3209 top0.1_liquid_only=0.1518 top10_liquid_only=0.7109 trust_share_of_top1_wealth=0.2187 trust_share_of_top0.1_wealth=0.3336 estate_tax/gross_50M+=0.2703 share_deaths_taxable=0.0014 charity/taxable_estates=0.1930 wealth_75plus/mean=1.1418 inter_vivos_share=0.2444 K_gap=0.0080 top1=0.3656 parent_child_wealth_elasticity=0.2838 rank_rank_child_35_39=0.4381 takeup_top1=0.1743
+# start V2 Tue Oct 20 09:07:36 2026 targets=['K_gap', 'top1_liquid_only', 'top0.1_liquid_only', 'top10_liquid_only', 'trust_share_of_top1_wealth', 'trust_share_of_top0.1_wealth', 'estate_tax/gross_50M+', 'log_share_deaths_taxable', 'charity/taxable_estates', 'wealth_75plus/mean', 'inter_vivos_share']
+# replaying 53 cached evaluations
+[1] cached ss=96.281
+[2] cached ss=175.479
+[3] cached ss=119.082
+[4] cached ss=94.664
+[5] cached ss=49.965
+[6] cached ss=262.131
+[7] cached ss=160.756
+[8] cached ss=98.998
+[9] cached ss=28.740
+[10] cached ss=54.211
+[11] cached ss=33.846
+[12] cached ss=29.197
+[13] cached ss=23.481
+[14] cached ss=68.807
+[15] cached ss=39.711
+[16] cached ss=28.910
+[17] cached ss=16.440
+[18] cached ss=26.722
+[19] cached ss=17.563
+[20] cached ss=16.339
+[21] cached ss=19.505
+[22] cached ss=27.781
+[23] cached ss=18.826
+[24] cached ss=16.494
+[25] cached ss=21.346
+[26] cached ss=14.269
+[27] cached ss=24.428
+[28] cached ss=14.879
+[29] cached ss=14.491
+[30] cached ss=17.080
+[31] cached ss=25.624
+[32] cached ss=15.146
+[33] cached ss=14.247
+[34] cached ss=14.248
+[35] cached ss=27.568
+[36] cached ss=15.618
+[37] cached ss=14.202
+[38] cached ss=14.592
+[39] cached ss=22.664
+[40] cached ss=15.134
+[41] cached ss=15.923
+[42] cached ss=13.618
+[43] cached ss=23.961
+[44] cached ss=14.322
+[45] cached ss=13.639
+[46] cached ss=15.190
+[47] cached ss=19.661
+[48] cached ss=14.090
+[49] cached ss=14.418
+[50] cached ss=13.646
+[51] cached ss=13.560
+[52] cached ss=23.529
+[53] cached ss=14.128
+[54] 3719s ss=13.615 x=[0.9454, -1.8739, 0.2154, 0.0799, 0.032, 0.9378, -1.9272] top1_dfa=0.3410 top0.1_dfa=0.1713 top10_dfa=0.7214 top1_liquid_only=0.3201 top0.1_liquid_only=0.1512 top10_liquid_only=0.7104 trust_share_of_top1_wealth=0.2117 trust_share_of_top0.1_wealth=0.3237 estate_tax/gross_50M+=0.2672 share_deaths_taxable=0.0014 charity/taxable_estates=0.2011 wealth_75plus/mean=1.1343 inter_vivos_share=0.2465 K_gap=0.0010 top1=0.3630 parent_child_wealth_elasticity=0.2835 rank_rank_child_35_39=0.4382 takeup_top1=0.1691
+# start V2 Tue Oct 20 10:51:00 2026 targets=['K_gap', 'top1_liquid_only', 'top0.1_liquid_only', 'top10_liquid_only', 'trust_share_of_top1_wealth', 'trust_share_of_top0.1_wealth', 'estate_tax/gross_50M+', 'log_share_deaths_taxable', 'charity/taxable_estates', 'wealth_75plus/mean', 'inter_vivos_share']
+# replaying 54 cached evaluations
+[1] cached ss=96.281
+[2] cached ss=175.479
+[3] cached ss=119.082
+[4] cached ss=94.664
+[5] cached ss=49.965
+[6] cached ss=262.131
+[7] cached ss=160.756
+[8] cached ss=98.998
+[9] cached ss=28.740
+[10] cached ss=54.211
+[11] cached ss=33.846
+[12] cached ss=29.197
+[13] cached ss=23.481
+[14] cached ss=68.807
+[15] cached ss=39.711
+[16] cached ss=28.910
+[17] cached ss=16.440
+[18] cached ss=26.722
+[19] cached ss=17.563
+[20] cached ss=16.339
+[21] cached ss=19.505
+[22] cached ss=27.781
+[23] cached ss=18.826
+[24] cached ss=16.494
+[25] cached ss=21.346
+[26] cached ss=14.269
+[27] cached ss=24.428
+[28] cached ss=14.879
+[29] cached ss=14.491
+[30] cached ss=17.080
+[31] cached ss=25.624
+[32] cached ss=15.146
+[33] cached ss=14.247
+[34] cached ss=14.248
+[35] cached ss=27.568
+[36] cached ss=15.618
+[37] cached ss=14.202
+[38] cached ss=14.592
+[39] cached ss=22.664
+[40] cached ss=15.134
+[41] cached ss=15.923
+[42] cached ss=13.618
+[43] cached ss=23.961
+[44] cached ss=14.322
+[45] cached ss=13.639
+[46] cached ss=15.190
+[47] cached ss=19.661
+[48] cached ss=14.090
+[49] cached ss=14.418
+[50] cached ss=13.646
+[51] cached ss=13.560
+[52] cached ss=23.529
+[53] cached ss=14.128
+[54] cached ss=13.615
