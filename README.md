@@ -2,6 +2,8 @@
 
 Richard Berk, Nest Egg Lab · richard.berk@nestegglab.org · ORCID 0009-0004-5344-4614
 
+**Paper:** Berk, R. (2026). *Hidden Dynasties: Dynasty Trusts and the Concentration of Wealth*. Working paper, Zenodo. https://doi.org/10.5281/zenodo.23887180
+
 This repository holds the code, input data and results behind the paper (preliminary draft,
 November 2026; `paper/`). Every number in the paper comes from a file in `results/`, and every file
 in `results/` can be regenerated from the code here.

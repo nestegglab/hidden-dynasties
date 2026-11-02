@@ -8,3 +8,17 @@ authors:
     orcid: "https://orcid.org/0009-0004-5344-4614"
 date-released: 2026-11-01
 license: MIT
+preferred-citation:
+  type: report
+  title: "Hidden Dynasties: Dynasty Trusts and the Concentration of Wealth"
+  authors:
+    - family-names: Berk
+      given-names: Richard
+      affiliation: Nest Egg Lab
+      orcid: "https://orcid.org/0009-0004-5344-4614"
+  year: 2026
+  month: 11
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.23887180"
+  url: "https://doi.org/10.5281/zenodo.23887180"
